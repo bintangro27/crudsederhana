@@ -5,25 +5,25 @@ melakukan operasi Create, Read, Update, dan Delete (CRUD) pada data.
 
  ✨ Fitur
 
- ➕ Tambah data
+  ➕ Tambah data
 
- 👀 Lihat data
+  👀 Lihat data
 
- 🔄 Perbarui data
+  🔄 Perbarui data
 
- ❌ Hapus data
+  ❌ Hapus data
 
 🛠 Teknologi yang Digunakan
 
- 🌐 HTML
+  🌐 HTML
 
- 🎨 CSS
+  🎨 CSS
 
- ⚡ JavaScript
+  ⚡ JavaScript
 
- 🐘 PHP
+  🐘 PHP
 
- 🗄️ MySQL
+  🗄️ MySQL
 
 📥 Instalasi
 
