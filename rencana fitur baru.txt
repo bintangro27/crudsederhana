@@ -1,4 +1,5 @@
 RENCANA FITUR BARU
 
 Menambahkan fitur lightmode dan darkmode pada tampilan utama
-Menambahkan fitur admin
+Menambahkan fitur admin dan session
+
