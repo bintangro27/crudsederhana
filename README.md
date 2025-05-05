@@ -56,3 +56,5 @@ Jika ingin berkontribusi, silakan fork repositori ini dan ajukan pull request de
 📜 Lisensi
 
 Proyek ini menggunakan lisensi MIT. Silakan lihat file LICENSE untuk detail lebih lanjut.
+
+Terima kasih
